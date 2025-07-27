@@ -4,6 +4,7 @@ Welcome to my cybersecurity portfolio! I'm a student at Montgomery College passi
 Burp Suite Web Application Security Lab
 
 Overview
+
 This repository lab takes my hands-on work with Burp Suite, focusing on identifying and exploiting common web application vulnerabilities. Scenarios based on real-world activity are what this structured lab was designed to show. in which case, I searched for traffic patterns, exploited inputs, and examined application behavior to uncover weaknesses, including Reflected XSS, SQL Injection, and insecure session magament.
 This project highlights both the offensive techniques used to uncover flaws and the defensive strategies developers can adopt. It mirrors a growing sense of proficiency in web application security and commitment to ethical hacking.
 
