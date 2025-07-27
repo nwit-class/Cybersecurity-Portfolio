@@ -1,0 +1,75 @@
+#  pfSense Firewall Lab
+
+This project demonstrates the installation and configuration of the **pfSense** firewall in a virtualized environment using **VirtualBox**. It simulates a real-world network by integrating a firewall, WAN and LAN interfaces, and an Ubuntu client. The goal is to gain hands-on experience in network security, traffic control, and secure communication.
+
+---
+
+##  Lab Overview
+
+The lab includes the following:
+
+- Installation of pfSense on VirtualBox
+- Configuration of WAN and LAN interfaces
+- DHCP setup for internal clients
+- DNS and hostname configuration
+- Ubuntu machine integration and network testing
+- Access to pfSense web interface for firewall management
+
+---
+
+## 📸 Screenshots
+
+The project is documented with step-by-step screenshots that include:
+
+1. License acceptance during installation
+2. Disk partitioning
+3. Installation completion and reboot
+4. pfSense system running in VirtualBox
+5. WAN (Adapter 1) setup
+6. LAN (Adapter 2) setup
+7. Ubuntu configuration for LAN access
+8. WAN and LAN IP assignment
+9. DHCP IP received by Ubuntu
+10. Accessing pfSense web interface
+11. Final DNS and hostname configuration
+
+---
+
+## 🔧 Tools Used
+
+- **pfSense 2.x+**
+- **VirtualBox**
+- **Ubuntu (Client VM)**
+- **Kali Linux or other host OS**
+
+---
+
+## 📂 File Structure
+
+
+---
+
+##  Learning Objectives
+
+- Understand the fundamentals of firewall setup
+- Configure a basic secure network environment
+- Demonstrate use of DHCP and DNS within a virtual lab
+- Practice administering a firewall via a web interface
+
+---
+
+## 📚 References
+
+- [pfSense Official Documentation](https://docs.netgate.com/)
+- [VirtualBox Networking Guide](https://www.virtualbox.org/manual/ch06.html)
+
+---
+
+##  Author
+
+Created by: Widmarck Francois
+Institution: Montgomery College, NWIT245 
+Date: February, 2024 
+
+---
+
